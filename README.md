@@ -4,11 +4,17 @@ Generate new training examples using albumentations library and google collab
 Note that Project folder in Google Drive should have a similar format:
 
 Project
+
 ---- Old
+
 ------ ∟ Image
+
 ------ ∟ Mask
+
 ---- New 
+
 ------ ∟ Image
+
 ------ ∟ Mask
 
 # Dataset
