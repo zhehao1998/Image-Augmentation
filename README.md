@@ -5,17 +5,17 @@ Note that Project folder in Google Drive should have a similar format:
 
 Project
 
----- Old
+-- Old
 
------- ∟ Image
+   ∟ Image
 
------- ∟ Mask
+   ∟ Mask
 
----- New 
+-- New 
 
------- ∟ Image
+   ∟ Image
 
------- ∟ Mask
+   ∟ Mask
 
 # Dataset
 Annotation and exporting of masks can be done using LabelMe, use the conversion.py on **local** labelme folder to generate dataset
